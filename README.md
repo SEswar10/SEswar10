@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eswar s MCA Student
-- 👀 I’m interested in ...Machine Learning,Web design,Development
+- 👀 I’m interested in Machine Learning,Web design,Development
 - 🌱 I’m currently learning UI/UX
 - 📫 How to reach me out :
  </br > [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eswar-s-77bb28217)
