@@ -4,8 +4,8 @@
 - 📫 How to reach me out :
  </br > [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eswar-s-77bb28217)
 
-I Code In 
-<img height="50" width="50" src="https://icons8.com/icon/13441/python"
+I Code In :
+</br> <img height="50" width="50" src="https://icons8.com/icon/13441/python" </img>
 
 <!---
 SEswar10/SEswar10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
