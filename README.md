@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SEswar MCA Student
+- 👋 Hi, I’m @Eswar s MCA Student
 - 👀 I’m interested in ...Machine Learning,Web design,Development
 - 🌱 I’m currently learning UI/UX
 - 📫 How to reach me out :
