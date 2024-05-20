@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @SEswar MCA Student
 - 👀 I’m interested in ...Machine Learning,Web design,Development
 - 🌱 I’m currently learning UI/UX
-- 📫 How to reach me seswar8180@gmail.com
-- https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white seswa8180@gmail.com
+- 📫 How to reach me out
+- </br > [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](seswar8180@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](ttps://www.linkedin.com/in/eswar-s-77bb28217)
+
 
 
 <!---
