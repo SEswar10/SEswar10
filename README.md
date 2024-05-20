@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @SEswar
--     MCA Student
+- 👋 Hi, I’m @SEswar MCA Student
 - 👀 I’m interested in ...Machine Learning,Web design,Development
 - 🌱 I’m currently learning UI/UX
 - 📫 How to reach me seswar8180@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 SEswar10/SEswar10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
