@@ -28,27 +28,31 @@
 
 <br>
 
+# ⭐ Featured Project:
+### 🎓 EdKonnect Tutoring Platform
+> Full-Stack production features for a live online tutoring marketplace. Built with **React.js, TypeScript, Node.js, Express.js, and AWS RDS MySQL**. Optimized database indexing to reduce API response times and ensure 99.9% uptime.
+
+<br>
+
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEswar10&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEswar10&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEswar10&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEswar10&show_icons=true&theme=radical" alt="Eswar's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEswar10&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEswar10&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <br>
 
 ### ✍️ Random Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 <br>
 
 ---
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=SEswar10&icon=0&color=0" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=SEswar10&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
